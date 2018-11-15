@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/CustomBarModels/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CustomBarModels/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/CustomBarModels/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/CustomBarModels/MainWindow.xaml))
+<!-- default file list end -->
 # How to create custom models for chart series 
 
 
